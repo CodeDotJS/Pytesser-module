@@ -92,4 +92,4 @@ def mat_to_string(im, lang=None, psm=None):
         return txt
 
 if __name__ =='__main__':
-    print image_to_string("image.jpg", "fra", PSM_AUTO) #Example
+    print image_to_string("image.jpg", "fra", PSM_AUTO)
